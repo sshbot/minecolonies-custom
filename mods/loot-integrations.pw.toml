@@ -1,0 +1,13 @@
+name = "Loot Integrations"
+filename = "lootintegrations-1.21-4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "49e699f3d87fd264a8c484b7c07fdbe5d68f8285"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5981105
+project-id = 580689

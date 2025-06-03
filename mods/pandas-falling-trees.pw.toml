@@ -1,0 +1,13 @@
+name = "Panda's Falling Tree's"
+filename = "fallingtrees-neoforge-0.13.1-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "781c4b0c0f05b891b012222957087fb48cc5c6b5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6164758
+project-id = 880630

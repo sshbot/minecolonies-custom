@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecolonies:blockhutcitizen"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecolonies:blockhutsawmill"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

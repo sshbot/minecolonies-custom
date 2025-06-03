@@ -1,0 +1,16 @@
+#This key is used to authenticate with the Gemini API. You can get one at https://aistudio.google.com/apikey
+gemini_key = ""
+#The language the AI should use to speak
+language = "en-US"
+#Wheather the citizens should respond if the player is in a group or not.
+respond_in_group = false
+#How long the player needs to look at an entity before activating (in ticks, 20 ticks = 1 second)
+look_duration_ticks = 20
+#Tolerance time in milliseconds when something walks between player and target
+look_tolerance_ms = 500
+#Distance at which the player can talk to when looking at them the citizen
+activation_distance = 3.0
+#If true, citizens will only respond to the talking device item; if false, looking at them will work
+use_talking_device = true
+#Maximum distance the player can be from a citizen before the conversation is ended
+max_conversation_distance = 8.0

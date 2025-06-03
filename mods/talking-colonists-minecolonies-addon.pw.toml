@@ -1,0 +1,13 @@
+name = "Talking Colonists (Minecolonies Addon)"
+filename = "mc_talking-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6f8d119df4ed822557d4444359bff85ffd5697be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6551107
+project-id = 1269918

@@ -1,0 +1,41 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "sshcrack",
+      "uniqueId": "093d5c18-e464-41a5-b28c-571447af1a68"
+    },
+    "time": 1747256219940,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/kR6TnQHCEK"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "sshcrack",
+      "uniqueId": "093d5c18-e464-41a5-b28c-571447af1a68"
+    },
+    "time": 1747222259418,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "D:\\(PC)Programme\\PrismLauncher\\instances\\MineColonies Official\\minecraft\\config\\spark\\profile-2025-05-14_13.30.59.sparkprofile"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "sshcrack",
+      "uniqueId": "093d5c18-e464-41a5-b28c-571447af1a68"
+    },
+    "time": 1747221873091,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/NML4RQNduW"
+    }
+  }
+]
